@@ -30,11 +30,11 @@ permalink: /ultimates/tea/zh-tw/01_living_liquid/
 	<td><img src="../images/living_liquid/living_liquid_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> 處理第二波不可視噴水</p><p><ul><li><b>D1, D2:</b>重疊站在你負責的浮士德上來避免被兩個 AoE 重複擊中，注意不要太靠近水窪而誘導到噴水</li></ul></p></td>
+    <td><p><b>4.</b> 處理第二波不可視噴水</p><p><ul><li><b>D1, D2:</b> 重疊站在你負責的浮士德上來避免被兩個 AoE 重複擊中，注意不要太靠近水窪而誘導到噴水</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Liquid Hand 使用痛苦之手判斷血量差距、水窪產生水球並緩慢的往雙 Boss 移動</p><p><ul><li><b>MT:</b>當 D1 的浮士德血量低於 25% 後移動到場地中央</li></ul></p></td>
+    <td><p><b>5.</b> Liquid Hand 使用痛苦之手判斷血量差距、水窪產生水球並緩慢的往雙 Boss 移動</p><p><ul><li><b>MT:</b> 當 D1 的浮士德血量低於 25% 後移動到場地中央</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_05.jpg"></td>
   </tr>
   <tr>
@@ -46,47 +46,47 @@ permalink: /ultimates/tea/zh-tw/01_living_liquid/
 	<td><img src="../images/living_liquid/living_liquid_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Party stacks "north/south" to bait the first set of telegraphed Protean Waves from Living Liquid.</p></td>
+    <td><p><b>8.</b> 隊伍在「南/北」誘導 Living Liquid 的第一組可視噴水</p></td>
 	<td><img src="../images/living_liquid/living_liquid_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> First set of untelegraphed Protean Waves.</p><p><ul><li><b>MT, ST, D1, D2:</b> Stay close to take these Protean Waves.</li><li><b>H1, H2, D3, D4:</b> Bait AoEs away from the bosses.</li></ul></p></td>
+    <td><p><b>9.</b> 第一組不可視噴水</p><p><ul><li><b>MT, ST, D1, D2:</b> 靠近本體來誘導噴水</li><li><b>H1, H2, D3, D4:</b> 遠離本體誘導 AoE</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_09.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Second set of untelegraphed Protean Waves.</p><p><ul><li><b>MT, ST, D1, D2:</b> Move to max-melee to avoid baiting the Protean Waves.</li><li><b>H1, H2, D3, D4:</b> Fan out under Living Liquid's targeting circle to bait the Protean Waves.</li></ul></p></td>
+    <td><p><b>10.</b> 第二組不可視噴水</p><p><ul><li><b>MT, ST, D1, D2:</b> 移動到最大近戰距離以免誘導到噴水</li><li><b>H1, H2, D3, D4:</b> 在本體目標圈上扇形散開來誘導噴水</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_10.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> 6x Splashes from Living Liquid.</p><p><ul><li><b>MT, ST:</b> Drainage tethers are strong tankbusters with an AoE.</li></ul></p></td>
+    <td><p><b>11.</b> 本體六連拍</p><p><ul><li><b>MT, ST:</b> 取得連線的 AoE 坦克大傷</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_11.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>12.</b> 2nd Cascade. The party should reorient themselves to the new water puddles.</p><p><ul><li><b>MT, ST, D3, D4:</b> Stack together "north" to bait the telegraphed Protean Waves</li><li><b>H1, H2, D3, D4:</b> Stack together "south" to bait the telegraphed Protean Waves.</li><li><b>H1, H2:</b> Esuna Throttled players</li></ul></p></td>
+    <td><p><b>12.</b> 第二次傾瀉，隊伍根據新的水窪重新站位</p><p><ul><li><b>MT, ST, D3, D4:</b> 在「北」集中誘導可視噴水</li><li><b>H1, H2, D3, D4:</b> 在「南」集中誘導可視噴水</li><li><b>H1, H2:</b> 解除窒息狀態的玩家</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_12.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>13.</b> 1st untelegraphed Protean Waves from Living Liquid.</p><p>The Liquid Hand will also do a Hand of Pain here.</p><p><ul><li><b>H1, H2, D3, D4:</b> Bait AoEs next to assigned puddles. Don't move until you see the telegraphed Protean waves from the puddles.</li></ul></p><div style="background-color: #020 ; padding: 10px; border: 1px solid;">If Living Liquid is ~10% HP at this point, the whole party can switch over to focus only on hitting Living Liquid.</div></td>
+    <td><p><b>13.</b> 第一組本體的不可視噴水</p><p>Liquid Hand 同時也會施放痛苦之手（血量差 < 5%）</p><p><ul><li><b>H1, H2, D3, D4:</b> 在對應的水窪附近誘導 AoE，在看到可視噴水的 AoE 提示出來前不要移動</li></ul></p><div style="background-color: #020 ; padding: 10px; border: 1px solid;">如果此時本體的血量在 10% 以下，全隊可以直接集火本體</div></td>
 	<td><img src="../images/living_liquid/living_liquid_13.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>14.</b> 1st telegraphed Protean Waves from the puddles.</p><p><ul><li><b>D1, D2:</b> Prepare to bait the "west" and "east" puddles.</li><li><b>H1, H2, D3, D4:</b> Move in to bait Living Liquid's Protean Waves after the puddle's telegraphs appear.</li></ul></p><p><em>(The East puddle's Protean Wave can be baited by either H2 or D4.)</em></p></td>
+    <td><p><b>14.</b> 第一組水窪的可視噴水</p><p><ul><li><b>D1, D2:</b> 準備誘導「西」和「東」的水窪可視噴水</li><li><b>H1, H2, D3, D4:</b> 當水窪的可視噴水提示出現後靠近本體誘導本體的不可視噴水</li></ul></p><p><em>(東邊的水窪可視噴水可以由 H2 或 D4 引導)</em></p></td>
 	<td><img src="../images/living_liquid/living_liquid_14.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>15.</b> 2nd untelegraphed Protean Waves from Living Liquid.</p></td>
+    <td><p><b>15.</b> 第二組本體的不可視噴水</p></td>
 	<td><img src="../images/living_liquid/living_liquid_15.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>16.</b> 2nd untelegraphed Protean Waves from the puddles.</p><p><ul><li><b>ST:</b> If you're confident on the party's DPS, you can alternatively bring the Liquid Hand "south" instead, but an Embolus may now go through the center if DPS is low.</li></ul></p></td>
+    <td><p><b>16.</b> 第二組水漥的不可視噴水</p><p><ul><li><b>ST:</b> 如果對隊伍的 DPS 有信心的話可以把手拉到「南邊」，但如果 DPS 不足的話有機率後續的水球會穿過場地中心</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_16.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>17.</b> Embolus orbs spawn.</p><p><ul><li><b>MT, ST:</b> Stack Living Liquid and the Liquid Hand together for Hand of Parting once the Liquid Hand glows as an open palm.</li></ul></p></td>
+    <td><p><b>17.</b> 產生水球</p><p><ul><li><b>MT, ST:</b> 當手變成「布」之後將兩隻王拉在一起</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_17.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>18.</b> The Liquid Hand does a final Hand of Pain while Living Liquid Splashes six times before targeting the MT with Fluid Swing.</p><p>Living Liquid then casts one final Cascade, serving as the enrage.</p></td>
+    <td><p><b>18.</b> 手使用最後一次痛苦之手，本體使用六連拍，結束後對 MT 扇形大傷</p><p>本體詠唱最後的狂暴傾瀉</p></td>
 	<td><img src="../images/living_liquid/living_liquid_18.jpg"></td>
   </tr>
 </table>
