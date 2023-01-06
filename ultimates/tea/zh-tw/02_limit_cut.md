@@ -8,27 +8,27 @@ permalink: /ultimates/tea/zh-tw/02_limit_cut/
 
 # Limit Cut
 
-While not technically a phase, the transition to Brute Justice + Cruise Chaser is by no means trivial.
+雖然嚴格上來說不算是一個 phase，但 P1 到 P2 的轉場並不算太簡單。
 
-There are two main strats for Limit Cut- [1211](#1211), and [1256](#1256).
+P1.5 目前有兩個主流的打法- [1211](#1211) 和 [1256](#1256)
 
 ## 1211
 
-1211 is the strat highlighted by the [Korean simulator](https://drive.google.com/file/d/1sdo02A5GbNPA9B4HN-NOt-vnTPyv2elH/view).
+1211 是在 [韓文模擬器](https://drive.google.com/file/d/1sdo02A5GbNPA9B4HN-NOt-vnTPyv2elH/view) 中預設的跑法
 
-**Unlike the Korean simulator**, we recommend that both the odd and even players point Cruise Chaser outside, and forward/backward at diagonals.
+**不同於韓文模擬器的部分**，我們推薦不管是奇數還是偶數都將飛機朝外誘導，並在對應的區域上一個往前一點（奇數），一個往後一點（偶數）
 
-*(The simulator points Cruise Chaser directly outwards, and directly inwards through the center of the arena).*
+*（在模擬器中，奇數是將飛機直接朝外誘導，並朝場中心衝刺）*
 
 <table>
   <tr>
-    <td>The name "1211" comes from the explosion intervals before each pair of players resolve Cruise Chaser's Alpha Sword + Super Blassty Charge combo.</td>
+    <td>「1211」名字來自於每組玩家要解決機制的位置，分別間隔 1、2、1、1 次爆炸</td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_overview.jpg"></td>
   </tr>
 </table>
 
-The movement for 1211 is as follows:
-
+1211 的移動流程如下:
+ 
 <table>
   <tr>
     <td><b>1.</b> First pair of explosions. All players move towards the explosion in the northern (west) half.</td>
