@@ -31,43 +31,43 @@ P1.5 目前有兩個主流的打法- [1211](#1211) 和 [1256](#1256)
  
 <table>
   <tr>
-    <td><b>1.</b> First pair of explosions. All players move towards the explosion in the northern (west) half.</td>
+    <td><b>1.</b> 出現第一組爆炸，所有玩家朝著西 - 東北的爆炸點移動</td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_01.jpg"></td>
   </tr>
   <tr>
-    <td><b>2.</b> Second pair of explosions.<br><br><ul><li><b>1</b>, <b>2</b>: Take up positions and use anti-knockback abilities.</li></ul></td>
+    <td><b>2.</b> 第二組爆炸<br><br><ul><li><b>1</b>, <b>2</b>: 站好位置並使用防擊退</li></ul></td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_02.jpg"></td>
   </tr>
   <tr>
-    <td><b>3.</b> Third pair of explosions.</td>
+    <td><b>3.</b> 第三組爆炸</td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_03.jpg"></td>
   </tr>
   <tr>
-    <td><b>4.</b> Fourth pair of explosions. All players wait behind the line where the explosion was.<br><br><ul><li><b>3</b>, <b>4</b>: Take up positions and use anti-knockback abilities.</li></ul></td>
+    <td><b>4.</b> 第四組爆炸，所有玩家在上一組爆炸的線前等待<br><br><ul><li><b>3</b>, <b>4</b>: 站好位置並使用防擊退</li></ul></td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_04.jpg"></td>
   </tr>
   <tr>
-    <td><b>5.</b> Fifth explosion.</td>
+    <td><b>5.</b> 第五組爆炸</td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_05.jpg"></td>
   </tr>
   <tr>
-    <td><b>6.</b> Sixth pair of explosions.</td>
+    <td><b>6.</b> 第六組爆炸</td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_06.jpg"></td>
   </tr>
   <tr>
-    <td><b>7.</b> Seventh pair of explosions.<br><br><ul><li><b>5</b>, <b>6</b>: Take up positions and use anti-knockback abilities.</li></ul></td>
+    <td><b>7.</b> 第七組爆炸<br><br><ul><li><b>5</b>, <b>6</b>: 站好位置並使用防擊退</li></ul></td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_07.jpg"></td>
   </tr>
   <tr>
-    <td><b>8.</b> Eighth pair of explosions.<br><br><ul><li><b>7</b>, <b>8</b>: Take up positions and use anti-knockback abilities.</li></ul></td>
+    <td><b>8.</b> 第八組爆炸<br><br><ul><li><b>7</b>, <b>8</b>: 站好位置並使用防擊退</li></ul></td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_08.jpg"></td>
   </tr>
   <tr>
-    <td><b>9.</b> Ninth pair of explosions. Do not enter the middle yet.</td>
+    <td><b>9.</b> 第九組爆炸，這時還不能往場中心移動</td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_09.jpg"></td>
   </tr>
   <tr>
-    <td><b>10.</b> Tenth (final) explosion.<br><br><ul><li>H1, H2: Heal up to prepare for J Kick.</li></ul></td>
+    <td><b>10.</b> 第十組（最後一組）爆炸<br><br><ul><li>H1, H2: 補血準備接正義飛踢 AOE</li></ul></td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_10.jpg"></td>
   </tr>
 </table>
