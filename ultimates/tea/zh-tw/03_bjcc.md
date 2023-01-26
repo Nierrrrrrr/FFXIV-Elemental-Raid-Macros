@@ -6,47 +6,47 @@ grand_parent: Ultimates
 permalink: /ultimates/tea/zh-tw/03_bjcc/
 ---
 
-# Brute Justice + Cruise Chaser
+# 殘暴正義號 + 巡航驅逐者
 
-My preferred method of doing this phase is using [my Tollgate strat](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4941271/) that is very similar to MOOF's strat that stacks both bosses in the middle.
+這個階段我偏好的打法是 [我的 Tollgate 打法](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4941271/)，非常類似於 MOOF 的打法，將兩隻王重疊拉在場地正中間。
 
-The "Tollgate" name comes from the third Nisi pass, where the tanks and healers line up to take/pass Nisi. Someone mentioned that passing Nisi here felt like passing through a tollgate, and the name stuck.
+「Tollgate」名字的由來在於第三次傳毒的時候，坦補會排成一直線來傳毒。有人曾經說這種傳毒的過程就像是在穿越剪票口感覺，以此靈感命名。
 
-The strat simplifies the Water/Lightning and Nisi passes, **but at the cost of increased Tank damage.** This phase is already one of the more healing-intensive fights, so be prepared.
+這個打法簡化了水/雷和傳毒的過程，**取而代之的代價就是會增加坦克受到的傷害**，這個階段是整場戰鬥中治療壓力偏高的階段，請做好準備。
 
-Tanks should try to have minor cooldowns available for the Lightning passes.
+坦克們盡量在每次傳雷的時候都要使用小的減傷來降低受到的傷害。
 
 <table>
   <tr>
-    <td>At a basic level, the tanks will keep both bosses stacked in the center, with some healer movement.<br><br>The DPS make up much of the movement in this phase.</td>
+    <td>大致上來看整個階段的移動，坦克會將兩隻王拉在場地正中間，而補師會有一些些許的移動。<br><br>DPS 需要相較之下較大量的移動，大致的移動路徑和時間點如圖所示。</td>
 	<td><img src="../images/bjcc/bjcc_overview.jpg"></td>
   </tr>
 </table>
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
-<summary><b>[Click to Expand] Water/Thunder and Nisi breakdown</b></summary>
-<p>This phase contains two "hot potato" loops that the party must handle simultaneously.</p>
-<p><b>Loop 1: Water/Thunder:</b></p>
-<p>These are two 30-second debuffs that are applied on two players when Brute Justice casts Link-up.</p><p>When the timer expires, the debuff explodes in a shared-damage AoE, centered on the affected player.</p>
+<summary><b>[點擊展開] 水/雷和最終判決（毒）的詳細說明</b></summary>
+<p>這個階段有兩個「燙手山芋」由全隊同時不停傳遞。</p>
+<p><b>循環 1: 水/雷:</b></p>
+<p>水雷是 2 個 30 秒的 debuff，當狂暴正義號詠唱「系統連接」的時候施放於 2 個玩家身上。</p><p>當倒數計時結束，debuff 會以玩家為中心造成一個可以分攤的 AOE 傷害。</p>
 <ul>
-  <li>If the player with the debuff ever dies, the debuff explodes and wipe the raid.</li>
-  <li>After the explosion, the debuff transfers to a random player that was hit.</li>
-  <li>If the debuff cannot be passed to a new player this way (e.g: nobody else was hit), it explodes and wipes the raid.</li>
-  <li>The player that originally had the debuff gets an elemental resistance down debuff, so they <em>cannot</em> participate in two stacks of the same element in a row.</li>
+  <li>如果帶有 debuff 的玩家死亡，debuff 會直接爆炸並滅團。</li>
+  <li>Debuff 爆炸之後，debuff 會隨機傳遞給受到 debuff 傷害的其他玩家其中一位。</li>
+  <li>如果 debuff 沒有擊中其他玩家 (例如: 單吃 debuff)，會直接產生全地圖爆炸傷害並滅團。</li>
+  <li>原本擁有 debuff 的玩家在爆炸後會獲得一個對應屬性的耐性降低的 debuff，所以他們<em>不能</em> 連續參與同一個屬性的兩次分傷。</li>
 </ul>
 <table>
   <tr>
     <td><img src="../images/bjcc/debuffs/compressed_water.png"></td>
-    <td><p><b>Compressed Water</b></p><ul><li>Starts on a <b>random healer</b>.</li><li>The more players that are hit, the less damage each player takes.</li><li>At least three players should share the Water stack damage.</li><li>A waterspout will also spawn where the debuffed player was standing.<ul><li>Players that move too near this waterspout will be instantly killed.</li><li>The waterspout must either be frozen with Brute Justice's Ice, or destroyed with fire from Brute Justice's Flarethrower. Failing to do so will wipe the raid.</li></ul></li></ul></td>
+    <td><p><b>水屬性壓縮</b></p><ul><li>從 1 位<b>隨機補師</b>開始。</li><li>越多玩家被擊中，則單一玩家受到的傷害越少。</li><li>至少三位玩家要一起分攤水屬性壓縮。</li><li>在原本擁有 debuff 的玩家腳下會長出一個水柱。<ul><li>玩家太靠近長出來的水柱則會被秒殺。</li><li>水柱必須被狂暴正義號的冰圈冰凍，或是狂暴正義號的噴火蒸發，如果處理失敗的話則會滅團。</li></ul></li></ul></td>
   </tr>
   <tr>
     <td><img src="../images/bjcc/debuffs/compressed_lightning.png"></td>
-    <td><p><b>Compressed Lightning</b></p><ul><li>Starts on a <b>random DPS</b>.</li><li>The more players that are hit, the <b>more damage</b> each player takes.</li><li>For this reason, we want <b>exactly two players</b> in each Thunder stack <em>(the person with the Thunder debuff, and the person we want to pass it to.)</em>.</li></ul></td>
+    <td><p><b>雷屬性壓縮</b></p><ul><li>從 1 位<b>隨機 DPS</b>開始。</li><li>越多玩家被擊中，則單一玩家受到的傷害<b>越高</b>。</li><li>因此，我們希望每次雷屬性壓縮的時候必須是<b>剛好兩位玩家</b>參與 <em>（一位是帶著雷屬性壓縮的玩家，另一位則是我們希望將雷屬性壓縮傳遞過去的玩家）</em>。</li></ul></td>
   </tr>
 </table>
-<p><b>Loop 2: Nisi:</b></p>
-<p>These are DoTs that are applied on either all the DPS, or all the tanks and healers when Brute Justice casts Judgment Nisi.</p>
+<p><b>循環 2: 最終判決:</b></p>
+<p>這些是當狂暴正義號詠唱「非最終審判」時會給全體 DPS 或是全體坦補施放的持續傷害 debuff。（譯註: 通常我們簡稱為毒）</p>
 <table>
   <tr>
     <td>
@@ -55,15 +55,15 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
       <img src="../images/bjcc/debuffs/final_decree_nisi_gamma.png">
       <img src="../images/bjcc/debuffs/final_decree_nisi_delta.png">
     </td>
-    <td><p><b>Final Decree Nisi αβγδ</b></p>
+    <td><p><b>最終判決（後面簡稱為毒） αβγδ</b></p>
       <ul>
-        <li>If a player with Nisi touches a player without Nisi, the player without Nisi gains a fresh copy of the Nisi they just touched.</li>
-        <li>If two players with <b>different coloured</b> Nisis touch each other, they are instantly killed.</li>
+        <li>當有毒的玩家碰觸到一個沒有毒的玩家，被碰觸的玩家會獲得一個相同且時間重新計時的毒。</li>
+        <li>如果兩個擁有<b>不同毒</b>的玩家彼此觸碰到則會直接死亡</li>
       </ul>
     </td>
   </tr>
 </table>
-<p>During the fight, Brute Justice will cast Verdict, which sets up for a checkpoint later in the phase when it casts Gavel.</p><p>When Verdict is cast, it applies the following additional debuffs on all players:</p>
+<p>戰鬥途中，狂暴正義號會詠唱「終審開庭」，會給所有玩家「解藥」，這個機制會在狂暴正義號詠唱「終審閉庭」時做檢查。</p><p>當「終審開庭」詠唱完畢時，會將下列的 debuff 施放於所有玩家:</p>
 <table>
   <tr>
     <td>
@@ -72,19 +72,19 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
       <img src="../images/bjcc/debuffs/final_judgment_decree_nisi_gamma.png">
       <img src="../images/bjcc/debuffs/final_judgment_decree_nisi_delta.png">
     </td>
-    <td><p><b>Final Judgment Decree Nisi αβγδ</b></p>
+    <td><p><b>終審判決（後面簡稱為解藥） αβγδ</b></p>
       <ul>
-        <li>Each Final Judgment Decree Nisi debuff goes onto two players- one tank/healer, and one DPS.</li>
-        <li>Each player <b>must have the corresponding Nisi debuff</b> on them when Gavel finishes its cast, or the raid wipes.</li>
+        <li>每種類型的解藥會施放於 2 個玩家身上 - 1 個坦/補，和 1 個 DPS。</li>
+        <li>每位玩家在「終審閉庭」施放完畢的時候<b>必須擁有和解藥對應的毒</b>，否則就會團滅。</li>
       </ul>
     </td>
   </tr>
 </table>
-<p>The party must essentially keep both debuff loops going, passing Water, Thunder, and all Nisis around until Brute Justice casts Gavel, which removes all the debuffs.</p>
+<p>隊伍必須維持這兩種毒的持續傳遞，傳遞水、雷和所有類型的毒 debuff 一直到狂暴正義號施放「終審閉庭」為止，詠唱結束後會清除所有玩家身上的所有 debuff。</p>
 </details>
 </div>
 
-## Movement
+## 走位
 
 <table>
   <tr>
