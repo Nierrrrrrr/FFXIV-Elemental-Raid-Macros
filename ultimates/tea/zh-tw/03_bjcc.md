@@ -88,27 +88,27 @@ permalink: /ultimates/tea/zh-tw/03_bjcc/
 
 <table>
   <tr>
-    <td><p><b>1.</b> Initial positions.</p><p><ul><li><b>MT</b>: Take Cruise Chaser.</li><li><b>ST</b>: Take Brute Justice.</li></ul></p><p><em>(Note the MT and ST starting positions are swapped from the usual convention. The bosses each tank takes spawns on their respective starting side.)</em></p></td>
+    <td><p><b>1.</b> 初始站位</p><p><ul><li><b>MT</b>: 坦巡航驅逐者</li><li><b>ST</b>: 坦狂暴正義號</li></ul></p><p><em>（注意 MT 和 ST 的初始站位和一般常見的站位是相反的，坦克們要坦的王會生在他們初始站位的那一側）</em></p></td>
 	<td><img src="../images/bjcc/bjcc_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Chakrams will spawn directly opposite one another at any of the eight intercardinal directions, effectively splitting the party into two.</p><p>All players move towards the edge of the arena to dodge Chakrams and bait Hawk Blasters.</p></td>
+    <td><p><b>2.</b> 兩個齒輪出現在八方位的其中兩個位置且一定互相是在對面，剛好會將隊伍拆成兩組。</p><p>所以玩家移動到場地邊緣躲避齒輪並且誘導「鷹式破壞炮」。</p></td>
 	<td><img src="../images/bjcc/bjcc_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> When the Chakrams go off, Cruise Chaser will cast Optical Sight, targeting large baited AoEs on all players current positions.</p><p>All players move back to the center.</p><p>The tanks will swap sides.</p><p><ul><li><b>ST</b>: Enter the inner circle first, but yield to allow the <b>MT</b> to pass.</li></ul></p></td>
+    <td><p><b>3.</b> 當齒輪判定後，巡航驅逐者會詠唱「制導」，在所有玩家腳下施放大型可誘導的圓形 AoE。</p><p>所有玩家往場中心移動。</p><p>坦克位置互相交換。</p><p><ul><li><b>ST</b>: 先走進場地中心的小圈圈，並等待<b>MT</b>經過</li></ul></p></td>
 	<td><img src="../images/bjcc/bjcc_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Cruise Chaser will stop to cast Photon.</p><p><b>This is a shield check</b> as Photon will bring all player's health down to 1HP. If there are no shields, the DoT from the Nisis will kill their players.</p><ul><li><b>MT:</b> Cross over to the west side. <em>(Cruise Chaser will not follow, but you can spend a few GCDs on Brute Justice while waiting.)</em></li></ul></td>
+    <td><p><b>4.</b> 巡航驅逐者會停止移動並詠唱「光子炮」。</p><p><b>這是一個盾值檢測</b>，當光子炮會將所有玩家的 HP 歸 1，如果沒有盾的話，毒的 DoT 會殺死帶毒的四位玩家。</p><ul><li><b>MT:</b> 穿越場中到西側。<em>（巡航驅逐者不會跟著移動，不過等待的時候你可以打幾個 GCD 在狂暴正義號身上）</em></li></ul></td>
 	<td><img src="../images/bjcc/bjcc_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> The two tanks should use this time to try and center the bosses. <em>(Use the arrowheads on the side of the boss's targeting circles to help)</em></p><p>The bosses don't <em>really</em> need to be centered N/S, but should be centered E/W.</p><p>After Photon is cast is the <b>first Nisi pass</b>.</p><p><ul><li><b>MT</b>, <b>D1</b>: Do not pass Nisi yet.</li><li><b>ST</b>, <b>D2</b>: Pass Nisi with each other.</li><li><b>H1</b>, <b>D3</b>: Pass Nisi with each other.</li><li><b>H2</b>, <b>D4</b>: Pass Nisi with each other.</li></ul></p></td>
+    <td><p><b>5.</b> 兩個坦克可以趁這時盡量將王拉到場地正中心。<em>（可以利用王目標圈兩側的箭頭來幫助定位）</em></p><p>兩隻王不用<em>完全</em>南北置中，但要盡可能地做到東西置中。</p><p>光子炮之後就是<b>第一次傳毒</b>。</p><p><ul><li><b>MT</b>, <b>D1</b>: 先不要傳毒。</li><li><b>ST</b>, <b>D2</b>: 互相傳毒。</li><li><b>H1</b>, <b>D3</b>: 互相傳毒。</li><li><b>H2</b>, <b>D4</b>: 互相傳毒。</li></ul></p></td>
 	<td><img src="../images/bjcc/bjcc_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Cruise Chaser casts Spin Crusher.</p><p><ul><li><b>MT</b>: Dodge Spin Crusher and pass Nisi with <b>D1</b>.</li><li><b>H1</b>, <b>H2</b>: The healer <em>with</em> Water goes to the first Water position (<b>H1</b> in this example). The healer <em>without</em> Water can preposition to bait Fire and the Hidden Mine.</li><li><b>D1</b>: Note <b>D1</b> is <em>never</em> involved in the first Water stack.</li><li><b>D3</b>: Be careful if you have the first Thunder as your path may cross <b>D2</b>'s path to the Water stack.</li></ul></p></td>
+    <td><p><b>6.</b> 巡航驅逐者詠唱「迴旋碎踢」</p><p><ul><li><b>MT</b>: Dodge Spin Crusher and pass Nisi with <b>D1</b>.</li><li><b>H1</b>, <b>H2</b>: The healer <em>with</em> Water goes to the first Water position (<b>H1</b> in this example). The healer <em>without</em> Water can preposition to bait Fire and the Hidden Mine.</li><li><b>D1</b>: Note <b>D1</b> is <em>never</em> involved in the first Water stack.</li><li><b>D3</b>: Be careful if you have the first Thunder as your path may cross <b>D2</b>'s path to the Water stack.</li></ul></p></td>
 	<td><img src="../images/bjcc/bjcc_06.jpg"></td>
   </tr>
   <tr>
